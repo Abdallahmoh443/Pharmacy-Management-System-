@@ -45,4 +45,10 @@ The Pharmacy Management System is a desktop application designed to streamline p
    - A robust relational database system for storing and managing all data efficiently.  
 
 ---
+## Main Menu
+![Application Screenshot](Images/Main.png)
+
+## Add Medicine
+![Application Screenshot](Images/Add%0Med.png)
+
 
