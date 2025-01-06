@@ -49,6 +49,33 @@ The Pharmacy Management System is a desktop application designed to streamline p
 ![Application Screenshot](Images/Main.png)
 
 ## Add Medicine
-![Application Screenshot](Images/Add%0Med.png)
+![Application Screenshot](Images/Add%20Med.png)
+![Application Screenshot](Images/Add%20Med%202.png)
+
+## Add Supplier
+![Application Screenshot](Images/Add%20new%20supplier.png)
+
+## Add Manufacturer
+![Application Screenshot](Images/Add%20new%20manfucture.png)
+
+## Sell Medicine and Generate Invoice
+![Application Screenshot](Images/Sale.png)
+
+## Search for Medicine
+![Application Screenshot](Images/Search.png)
+
+## Low Stock Report
+![Application Screenshot](Images/Need%20Restock.png)
+
+## Update Medicine Details
+![Application Screenshot](Images/Update%20med%20data.png)
+
+## Database 
+![Application Screenshot](Images/DB.png)
+
+
+
+
+
 
 
